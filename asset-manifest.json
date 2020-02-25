@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/codechallenge-frontend/static/js/main.c9446e39.chunk.js",
+    "main.js.map": "/codechallenge-frontend/static/js/main.c9446e39.chunk.js.map",
+    "runtime-main.js": "/codechallenge-frontend/static/js/runtime-main.623f1e5c.js",
+    "runtime-main.js.map": "/codechallenge-frontend/static/js/runtime-main.623f1e5c.js.map",
+    "static/js/2.8e44b425.chunk.js": "/codechallenge-frontend/static/js/2.8e44b425.chunk.js",
+    "static/js/2.8e44b425.chunk.js.map": "/codechallenge-frontend/static/js/2.8e44b425.chunk.js.map",
+    "index.html": "/codechallenge-frontend/index.html",
+    "precache-manifest.39c95813f6c20d94ff0d9d2dd482ff15.js": "/codechallenge-frontend/precache-manifest.39c95813f6c20d94ff0d9d2dd482ff15.js",
+    "service-worker.js": "/codechallenge-frontend/service-worker.js",
+    "static/js/2.8e44b425.chunk.js.LICENSE.txt": "/codechallenge-frontend/static/js/2.8e44b425.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.623f1e5c.js",
+    "static/js/2.8e44b425.chunk.js",
+    "static/js/main.c9446e39.chunk.js"
+  ]
+}
